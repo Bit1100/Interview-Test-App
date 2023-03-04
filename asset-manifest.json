@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/nioclasTask_Suraj/static/css/main.60497888.css",
-    "main.js": "/nioclasTask_Suraj/static/js/main.585a8197.js",
+    "main.js": "/nioclasTask_Suraj/static/js/main.a512caa8.js",
     "index.html": "/nioclasTask_Suraj/index.html",
     "main.60497888.css.map": "/nioclasTask_Suraj/static/css/main.60497888.css.map",
-    "main.585a8197.js.map": "/nioclasTask_Suraj/static/js/main.585a8197.js.map"
+    "main.a512caa8.js.map": "/nioclasTask_Suraj/static/js/main.a512caa8.js.map"
   },
   "entrypoints": [
     "static/css/main.60497888.css",
-    "static/js/main.585a8197.js"
+    "static/js/main.a512caa8.js"
   ]
 }
