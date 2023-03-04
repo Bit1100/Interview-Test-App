@@ -8,7 +8,10 @@ export const QuestionWrapper = () => {
   return (
     <div className="question-wrapper">
       <span className="question-no">Question-{index + 1}</span>
-      <MathJax className={isClicked ? "question question-slide" : "question"}>
+      <MathJax
+        dynamic
+        className={isClicked ? "question question-slide" : "question"}
+      >
         {question}
       </MathJax>
     </div>

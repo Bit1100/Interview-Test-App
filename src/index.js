@@ -8,10 +8,10 @@ import { AppContextProvider } from "./context";
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <React.StrictMode>
-    <AppContextProvider>
-      <MathJaxContext>
+    <MathJaxContext>
+      <AppContextProvider>
         <App />
-      </MathJaxContext>
-    </AppContextProvider>
+      </AppContextProvider>
+    </MathJaxContext>
   </React.StrictMode>
 );
