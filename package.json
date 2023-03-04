@@ -2,7 +2,7 @@
   "name": "interview-test-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://bit1100.github.io/Interview-Test-App/",
+  "homepage": "https://bit1100.github.io/nioclasTask_Suraj",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
